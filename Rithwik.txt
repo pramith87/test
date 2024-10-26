@@ -1,1 +1,2 @@
-Hi Rithwik how r u 
+Hi Rithwik how r u (1st Commit)
+Am good (2nd commit)
